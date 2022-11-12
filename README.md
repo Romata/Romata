@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romata
 - 👀 I’m interested in computer science and yoga.
-- 🌱 I’m currently learning Linux C devel and Python 3.10
+- 🌱 I’m currently learning Data Sciense and Python. 
 - 📫 Reach me at telegram @Romata
 
 <!---
